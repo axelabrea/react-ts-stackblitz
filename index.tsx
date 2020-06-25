@@ -21,7 +21,7 @@ class App extends Component<AppProps, AppState> {
       <div>
         <Hello name={this.state.name} />
         <p>
-          Hello World
+          Hello World!
         </p>
       </div>
     );
